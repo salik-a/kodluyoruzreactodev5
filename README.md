@@ -1,3 +1,5 @@
+## Kodluyoruzreactodev5
+Patika.dev frontend eğitim serisi React 5.ödevi
 ## Burger Builder
 
 3 farklı malzemeyle bir hamburger oluşturabildiğimiz bu küçük projede context-api pratiği yapacağız.
@@ -26,4 +28,4 @@ Belirtilen yerlerdeki eksikleri tamamlayınız.
 3. Menu.js component'i içerisinde handleRemoveIngredient adlı fonksiyonun içerisindeki ingredients değişkenini doğru state değeri ile eşitleyiniz.
 4. Burger.js component'i içerisinde HamburgerContext'ten gelecek olan gerekli state'i ekleyiniz.
 5. index.js içerisinde tüm uygulamayı context provider component'i ile sarmalayınız.
-# kodluyoruzreactodev5
+
